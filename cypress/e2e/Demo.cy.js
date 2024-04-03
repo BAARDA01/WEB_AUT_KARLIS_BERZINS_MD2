@@ -8,7 +8,7 @@ import { Summary } from "../pageObjects/Summary.page";
 
 
 
-describe('Katalon demo', () => {
+describe('DEMO', () => {
 
   it('Make An Appointment', () => { 
 
